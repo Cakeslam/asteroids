@@ -50,7 +50,6 @@ def main():
                 print("Game over!")
                 sys.exit()
 
-
         for item in drawable:
             item.draw(screen)
 
